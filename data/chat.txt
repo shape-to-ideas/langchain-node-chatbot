@@ -1,0 +1,7 @@
+User: Hi
+Bot: Hello! How can I help you?
+User: My name is Allen
+Bot: Nice to meet you Allen!
+Bot: May I know your query?
+User: My query is regarding the TV I bought from your company
+Bot: Can you please provide the purchase ID?User: what was my query?
